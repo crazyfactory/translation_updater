@@ -1,6 +1,5 @@
 # translation_updater
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/crazyfactory/translation_updater.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.com/crazyfactory/translation_updater.svg)](https://travis-ci.com/crazyfactory/translation_updater)
 [![GitHub issues](https://img.shields.io/github/issues/crazyfactory/translation_updater.svg)](https://github.com/crazyfactory/translation_updater/issues)
 [![codecov](https://codecov.io/gh/crazyfactory/translation_updater/branch/master/graph/badge.svg)](https://codecov.io/gh/crazyfactory/translation_updater)
