@@ -5,6 +5,7 @@
     "esModuleInterop": true,
     "lib": ["es5", "scripthost", "dom", "es6"],
     "noImplicitAny": true,
+    "noImplicitThis": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "strictNullChecks": true,
