@@ -14,9 +14,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/crazyfactory/ts-module-boilerplate.git"
+    "url": "https://github.com/crazyfactory/translation_updater.git"
   },
-  "homepage": "https://github.com/crazyfactory/tslint-rules",
+  "homepage": "https://github.com/crazyfactory/translation_updater",
   "dependencies": {
     "@octokit/rest": "^15.16.1"
   },
