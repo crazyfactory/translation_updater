@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/crazyfactory/uptrans.svg)](https://github.com/crazyfactory/uptrans/issues)
 [![codecov](https://codecov.io/gh/crazyfactory/uptrans/branch/master/graph/badge.svg)](https://codecov.io/gh/crazyfactory/uptrans)
 [![devDependencies Status](https://david-dm.org/crazyfactory/uptrans/dev-status.svg)](https://david-dm.org/crazyfactory/uptrans?type=dev)
-[![dependencies Status](https://david-dm.org/crazyfactory/uptrans/status.svg)](https://david-dm.org/crazyfactory/uptrans)
+[![dependencies Status](https://david-dm.org/crazyfactory/uptrans/status.svg)](https://david-dm.org/crazyfactory/uptrans) [![Greenkeeper badge](https://badges.greenkeeper.io/crazyfactory/uptrans.svg)](https://greenkeeper.io/)
 
 This CLI tool helps to manage translations on individual packages,
 and automatically creates PR to target repository on any new releases on travis.
