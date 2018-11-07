@@ -1,4 +1,4 @@
-# translation_updater
+# uptrans
 
 [![Build Status](https://travis-ci.com/crazyfactory/translation_updater.svg)](https://travis-ci.com/crazyfactory/translation_updater)
 [![GitHub issues](https://img.shields.io/github/issues/crazyfactory/translation_updater.svg)](https://github.com/crazyfactory/translation_updater/issues)
