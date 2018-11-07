@@ -1,10 +1,10 @@
 # uptrans
 
-[![Build Status](https://travis-ci.com/crazyfactory/translation_updater.svg)](https://travis-ci.com/crazyfactory/translation_updater)
-[![GitHub issues](https://img.shields.io/github/issues/crazyfactory/translation_updater.svg)](https://github.com/crazyfactory/translation_updater/issues)
-[![codecov](https://codecov.io/gh/crazyfactory/translation_updater/branch/master/graph/badge.svg)](https://codecov.io/gh/crazyfactory/translation_updater)
-[![devDependencies Status](https://david-dm.org/crazyfactory/translation_updater/dev-status.svg)](https://david-dm.org/crazyfactory/translation_updater?type=dev)
-[![dependencies Status](https://david-dm.org/crazyfactory/translation_updater/status.svg)](https://david-dm.org/crazyfactory/translation_updater)
+[![Build Status](https://travis-ci.com/crazyfactory/uptrans.svg)](https://travis-ci.com/crazyfactory/uptrans)
+[![GitHub issues](https://img.shields.io/github/issues/crazyfactory/uptrans.svg)](https://github.com/crazyfactory/uptrans/issues)
+[![codecov](https://codecov.io/gh/crazyfactory/uptrans/branch/master/graph/badge.svg)](https://codecov.io/gh/crazyfactory/uptrans)
+[![devDependencies Status](https://david-dm.org/crazyfactory/uptrans/dev-status.svg)](https://david-dm.org/crazyfactory/uptrans?type=dev)
+[![dependencies Status](https://david-dm.org/crazyfactory/uptrans/status.svg)](https://david-dm.org/crazyfactory/uptrans)
 
 This CLI tool helps to manage translations on individual packages,
 and automatically creates PR to target repository on any new releases on travis.
