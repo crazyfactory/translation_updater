@@ -4,7 +4,7 @@
   "description": "",
   "main": "./lib/index.js",
   "bin": {
-    "uptrans": "./bin/index.js"
+    "uptrans": "./lib/cli.js"
   },
   "typings": "./lib/index",
   "module": "./lib.es2015/index.js",
